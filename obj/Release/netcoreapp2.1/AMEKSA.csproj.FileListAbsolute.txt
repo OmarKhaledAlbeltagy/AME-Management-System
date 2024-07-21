@@ -1,0 +1,114 @@
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.deps.json
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.runtimeconfig.json
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.runtimeconfig.dev.json
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.dll
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.pdb
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.csprojAssemblyReference.cache
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.AssemblyInfo.cs
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorAssemblyInfo.cache
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorAssemblyInfo.cs
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorTargetAssemblyInfo.cache
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.dll
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.pdb
+C:\Users\Omar\source\repos\AMEKSA\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.genruntimeconfig.cache
+D:\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\appsettings.Development.json
+D:\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+D:\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\appsettings.json
+D:\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.deps.json
+D:\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.runtimeconfig.json
+D:\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.runtimeconfig.dev.json
+D:\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.dll
+D:\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.pdb
+D:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.csprojAssemblyReference.cache
+D:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.AssemblyInfoInputs.cache
+D:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.AssemblyInfo.cs
+D:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.csproj.CoreCompileInputs.cache
+D:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorAssemblyInfo.cache
+D:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorAssemblyInfo.cs
+D:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorTargetAssemblyInfo.cache
+D:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.dll
+D:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.pdb
+D:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.genruntimeconfig.cache
+F:\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\appsettings.Development.json
+F:\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+F:\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\appsettings.json
+F:\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.deps.json
+F:\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.runtimeconfig.json
+F:\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.runtimeconfig.dev.json
+F:\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.dll
+F:\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.pdb
+F:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.csprojAssemblyReference.cache
+F:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.AssemblyInfoInputs.cache
+F:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.AssemblyInfo.cs
+F:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.csproj.CoreCompileInputs.cache
+F:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorAssemblyInfo.cache
+F:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorAssemblyInfo.cs
+F:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+F:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorTargetAssemblyInfo.cache
+F:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.dll
+F:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.pdb
+F:\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.genruntimeconfig.cache
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\appsettings.json
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.deps.json
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.runtimeconfig.json
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.runtimeconfig.dev.json
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.dll
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.pdb
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.csprojAssemblyReference.cache
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.AssemblyInfoInputs.cache
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.AssemblyInfo.cs
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.csproj.CoreCompileInputs.cache
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorAssemblyInfo.cache
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorAssemblyInfo.cs
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorTargetAssemblyInfo.cache
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.dll
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.pdb
+C:\Development\AME Dynamic Categories\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.genruntimeconfig.cache
+C:\Development\AME\Backend\AMEKSA\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Development\AME\Backend\AMEKSA\bin\Release\netcoreapp2.1\appsettings.json
+C:\Development\AME\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.deps.json
+C:\Development\AME\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.runtimeconfig.json
+C:\Development\AME\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.runtimeconfig.dev.json
+C:\Development\AME\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.dll
+C:\Development\AME\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.pdb
+C:\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.AssemblyInfoInputs.cache
+C:\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.AssemblyInfo.cs
+C:\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.csproj.CoreCompileInputs.cache
+C:\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorAssemblyInfo.cache
+C:\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorAssemblyInfo.cs
+C:\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorTargetAssemblyInfo.cache
+C:\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.dll
+C:\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.pdb
+C:\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.genruntimeconfig.cache
+C:\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.csproj.AssemblyReference.cache
+C:\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\AAA\Development\AME\Backend\AMEKSA\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\AAA\Development\AME\Backend\AMEKSA\bin\Release\netcoreapp2.1\appsettings.json
+C:\AAA\Development\AME\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.deps.json
+C:\AAA\Development\AME\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.runtimeconfig.json
+C:\AAA\Development\AME\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.runtimeconfig.dev.json
+C:\AAA\Development\AME\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.dll
+C:\AAA\Development\AME\Backend\AMEKSA\bin\Release\netcoreapp2.1\AMEKSA.pdb
+C:\AAA\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.csproj.AssemblyReference.cache
+C:\AAA\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\AAA\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.AssemblyInfoInputs.cache
+C:\AAA\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.AssemblyInfo.cs
+C:\AAA\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.csproj.CoreCompileInputs.cache
+C:\AAA\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorAssemblyInfo.cache
+C:\AAA\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorAssemblyInfo.cs
+C:\AAA\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\AAA\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.RazorTargetAssemblyInfo.cache
+C:\AAA\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.dll
+C:\AAA\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.pdb
+C:\AAA\Development\AME\Backend\AMEKSA\obj\Release\netcoreapp2.1\AMEKSA.genruntimeconfig.cache
